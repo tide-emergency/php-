@@ -9,6 +9,8 @@ code.php为菜刀一句话后门，测试发现可过安全狗；
 
 jiemi_1.php和jiemi_2.php是对5678.php进行密码破解脚本，5678.php密码为hacker567 。
 
+5678.php加密的原理基本和威盾加密一致，所以上传威盾加密软件，虽然该软件已经古老，但是有时还是能用上的。
+
 参考资料：https://www.uedbox.com/post/6109/，php 
 
 Base64+Gzinflate在线解密：http://www.zhuisu.net/tool/phpencode.php
